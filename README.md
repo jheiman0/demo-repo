@@ -9,4 +9,4 @@ More text
 
 ## Local Dev
 
-1. Open index.html in web
+1. Open index.html in web browser!
